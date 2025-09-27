@@ -23,7 +23,7 @@
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview"
-}
+},
 
     
     "warning": "🚨 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
@@ -89,5 +89,6 @@
     "vite-tsconfig-paths": "3.6.0"
   }
 }
+
 
 
